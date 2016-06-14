@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e7988f0-8471-429e-9ae6-66c8806202e3" name="Default" comment="" />
+    <list default="true" id="1e7988f0-8471-429e-9ae6-66c8806202e3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ug/vertx/ChatServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ug/vertx/Runner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ug/vertx/SimpleVerticle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ug/vertx/util/VerticlesRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/webroot/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/webroot/vertx-eventbus.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="vertxchat.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -702,12 +710,12 @@
       <workItem from="1465855377579" duration="3248000" />
       <workItem from="1465905993675" duration="709000" />
       <workItem from="1465932808260" duration="1606000" />
-      <workItem from="1465934460487" duration="1298000" />
+      <workItem from="1465934460487" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10153000" />
+    <option name="totallyTimeSpent" value="10333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
